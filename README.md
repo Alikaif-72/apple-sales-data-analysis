@@ -184,15 +184,17 @@ jupyter notebook Apple_Sales_Analysis.ipynb
 
 ---
 
-## 🔮 Future Scope
-
-- 📉 **Time Series Forecasting** (ARIMA) — predict future monthly apple sales
-- 📐 **Linear Regression** — model the relationship between price, quantity & revenue
-- 🔵 **Clustering (K-Means)** — segment countries by purchasing behavior
-- 📊 **Interactive Dashboard** — build real-time dashboard using Power BI or Tableau
-- 💲 **Price Optimization** — develop dynamic pricing models per market and season
 
 ---
+## 🔗 Live Dashboard
+👉 [View Interactive Dashboard](https://alikaif-72.github.io/apple-sales-data-analysis/apple_sales_dashboard.html)
+
+```
+🍎 Apple Sales Analytics Dashboard
+
+🔗 Live Dashboard: https://alikaif-72.github.io/apple-sales-data-analysis/apple_sales_dashboard.html
+
+#DataScience #Python #Dashboard
 
 ## 👤 Author
 
