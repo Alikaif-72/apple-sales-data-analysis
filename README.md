@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Live Dashboard
-👉 [View Interactive Dashboard](https://alikaif-72.github.io/apple-sales-data-analysis/apple_sales_dashboard.html)
+👉(https://alikaif-72.github.io/apple-sales-data-analysis/apple_sales_dashboard.html)
 
 ---
 
