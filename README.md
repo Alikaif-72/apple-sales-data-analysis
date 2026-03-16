@@ -8,6 +8,11 @@
 
 ---
 
+## 🔗 Live Dashboard
+👉 [View Interactive Dashboard](https://alikaif-72.github.io/apple-sales-data-analysis/apple_sales_dashboard.html)
+
+---
+
 ## 📌 Project Overview
 
 This is my **Project 2** as part of my Data Science learning journey.
@@ -183,11 +188,6 @@ jupyter notebook Apple_Sales_Analysis.ipynb
 | 8    | Conclusion & Future Scope | ✅ Done |
 
 ---
-
-
----
-## 🔗 Live Dashboard
-👉 [View Interactive Dashboard](https://alikaif-72.github.io/apple-sales-data-analysis/apple_sales_dashboard.html)
 
 ```
 🍎 Apple Sales Analytics Dashboard
