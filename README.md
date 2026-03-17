@@ -8,6 +8,10 @@
 
 ---
 
+Dashboard URL : file:///D:/Download/data_cleaning/dashboard_01/apple_sales_dashboard.html
+
+---
+
 ## 📌 Project Overview
 
 This is my **Project 2** as part of my Data Science learning journey.
